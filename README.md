@@ -36,7 +36,8 @@
 
 ##### Opent AS
 
-	1. Go to the: Preferences ~> Appearance & Behavio ~> System Settings ~> Android SDK ~> Click tab SDK Tools ~> click “Android SDK Command-line Tools” and “Android SDK Build-Tools”  ~> Apply (wait install) ~> OK.
+	1. Go to the: Preferences ~> Appearance & Behavio ~> System Settings ~> Android SDK 
+	~> Click tab SDK Tools ~> click “Android SDK Command-line Tools” and “Android SDK Build-Tools”  ~> Apply (wait install) ~> OK.
 
 	2. Go to the: Preferences ~> Plugins: search and install “Dart”, “Flutter”, “Flutter Intl”.
 
