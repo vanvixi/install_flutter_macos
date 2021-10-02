@@ -42,9 +42,6 @@
 
 	3. Restart AS.
 
-
-I 
-
 ## Install xcode:
 
 ##### Install from Mac App Store
