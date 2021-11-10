@@ -1,4 +1,4 @@
-# Install Flutter on macOS
+# Install Flutter on macOS (intel)
 
 ## Install Homebrew:
 
