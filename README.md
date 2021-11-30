@@ -99,5 +99,8 @@ Flutter doctor
  ln -s ../jre jdk
  ln -s "/Library/Internet Plug-Ins/JavaAppletPlugin.plugin" jdk
 ```
-##### Error "Flutter plugin not installed" (ignore).
-##### Error "Dart plugin not installed" (ignore).
+##### Fix error "Flutter plugin not installed".
+##### Fix error "Dart plugin not installed" .
+```
+ln -s ~/Library/Application\ Support/Google/AndroidStudio4.1/plugins ~/Library/Application\ Support/AndroidStudio4.1
+```
