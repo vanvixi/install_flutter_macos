@@ -75,7 +75,7 @@
  export PATH=$PATH:$ANDROID_HOME/tools/bin
  export JAVA_HOME=$(/usr/libexec/java_home)
 ```
-##### Sava and exit (^O ~> Enter ~> ^X)
+##### Save and exit (^O ~> Enter ~> ^X)
 
 ##### Enter the value:
 
