@@ -19,11 +19,13 @@
 ```
  fvm install flutter_version
 ```
+`eg: fvm install 1.22.6`
 ## Sets Flutter SDK Version as a global:
 
 ```
  fvm global flutter_version
 ```
+`eg: fvm global 1.22.6`
 ## Install Java:
 
 ```
