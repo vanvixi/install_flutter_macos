@@ -1,4 +1,6 @@
-# Install Flutter on macOS (intel)
+# Install Flutter on macOS (Intel Chip)
+- Chip: Intel
+- Version: MacOS Big Sur
 
 ## Install Homebrew:
 
@@ -66,7 +68,7 @@ sudo xcodebuild -license
 ```
 sudo gem install cocoapods
 ```
-## Add path to .zshrc (macOS Big Sur) file:
+## Add path to .zshrc file:
 
 ##### Opent .zshrc file:
 
