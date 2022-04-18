@@ -114,7 +114,6 @@ cd /Applications/Android\ Studio.app/Contents/jre
 ln -s ../jre jdk
 ```
 ```
-ln -s ../jre jdk
 ln -s "/Library/Internet Plug-Ins/JavaAppletPlugin.plugin" jdk
 ```
 ##### Fix error "Flutter plugin not installed" and "Dart plugin not installed":
