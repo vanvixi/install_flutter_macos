@@ -78,14 +78,15 @@ nano .zshrc
 ##### Copy and paste:
 
 ```
+export JAVA_HOME=$(/usr/libexec/java_home)
+export ANDROID_HOME=$HOME/Library/Android/sdk
+
 export PATH="$PATH":"$HOME/.pub-cache/bin"
 export PATH="$PATH":"$HOME/fvm/default/bin"
-export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
-export JAVA_HOME=$(/usr/libexec/java_home)
 ```
 ##### Save and exit (control + o -> Enter -> control + x)
 
