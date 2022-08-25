@@ -121,3 +121,18 @@ ln -s "/Library/Internet Plug-Ins/JavaAppletPlugin.plugin" jdk
 ```
 ln -s ~/Library/Application\ Support/Google/AndroidStudio4.1/plugins ~/Library/Application\ Support/AndroidStudio4.1
 ```
+
+##### Because of your java version is newest, 
+##### Some error when run old project on android, let update your distributionUrl located on
+```
+\android\gradle\wrapper\gradle-wrapper.properties
+```
+##### And now update your android distribution which support your java version at
+<a href="https://services.gradle.org/distributions" target="_blank">https://services.gradle.org/distributions</a>
+``
+##### Or
+```
+https://services.gradle.org/distributions
+``
+```
+##### Note: select only .zip file
