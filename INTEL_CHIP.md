@@ -68,6 +68,13 @@ sudo xcodebuild -license
 ```
 sudo gem install cocoapods
 ```
+##### If can't install cocoapods by above try this:
+```
+brew install cocoapods
+```
+```
+brew link --overwrite cocoapods
+```
 ## Add path to .zshrc file:
 
 ##### Opent .zshrc file:
